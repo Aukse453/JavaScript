@@ -1,2 +1,2 @@
 # JavaScript
-Mokausi Java Scrip pagrindų
+Mokausi JavaScript pagrindų
